@@ -1,6 +1,7 @@
-
 # Visual Studio for Mac: Refresh(); Content
-[![](Creative/VS_EmailHeader_1000x200.jpg)](https://aka.ms/vs4mac-event)
+
+[![](Creative/png/vs-for-mac-refresh-1600x600-dark@2x.png)](https://aka.ms/vs4mac-event)
+
 ### [https://aka.ms/vs4mac-event](https://aka.ms/vs4mac-event)
 On February 24th we broadcasted a full day of technical content showing how to build .NET applications on your Mac using Visual Studio for Mac. This repo contains creative and technical content so you can follow along as you watch the recordings and use them in your own virtual events, blog posts, etc. 
 
